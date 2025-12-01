@@ -10,7 +10,7 @@ import path from 'path';
 
 // ==================== CONFIG ====================
 const GEMINI_API_KEY = "AIzaSyCetdoR3kbsagJB8Xpmqybo9S0lucCu3mQ";
-const DB_DIR = './.data';
+const DB_DIR = './data';
 const DB_FILE = path.join(DB_DIR, 'users.db');
 
 // THIS IS THE REAL WORKING MODEL (December 2025)
